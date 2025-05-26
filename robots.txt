@@ -1,42 +1,285 @@
-# Indique aux robots que toutes les pages peuvent être explorées, sauf restrictions spécifiées
+# robots.txt v3.3 - 2025-05-27
+# Optimisé pour https://clairvoyancemedium.github.io/voyance-minceur.github.io/
+# Objectifs : SEO mondial, crawl fréquent via sitemaps automatisés, support IA/assistants vocaux/réseaux sociaux, multilingue, protection des données sensibles
+
+# --- Directives générales pour tous les crawlers légitimes ---
 User-agent: *
-Disallow: /admin/
-Disallow: /tmp/
-Disallow: /private/
+Allow: /
+Allow: /[a-z]{2}/  # Répertoires multilingues (/fr/, /en/, /es/, etc.) et sous-pages
+Allow: /fonts/      # Polices pour rendu
+Allow: /images/     # Images pour indexation
+Allow: /js/        # Scripts pour fonctionnalités interactives
+Allow: /css/       # CSS pour rendu mobile-first
+Allow: /*.webp$     # Images WebP
+Allow: /*.jpg$     # Images JPG
+Allow: /*.png$     # Images PNG
+Allow: /*.gif$     # Images GIF
+Allow: /*.js$      # Scripts JavaScript
+Allow: /*.css$     # Fichiers CSS
+Disallow: /csp-report-endpoint  # Protéger le point de terminaison CSP
+Disallow: /contact              # Page de contact non indexable
+Disallow: /conditions           # CGV non indexables
+Disallow: /privacy              # Politique de confidentialité non indexable
+Disallow: /checkout/            # Bloquer les chemins transactionnels potentiels
+Disallow: /*?*                  # Bloquer les paramètres d’URL (ex. ?s=)
+Disallow: /search/              # Bloquer les pages de recherche
+Disallow: /api/                 # Bloquer les endpoints API
+Disallow: /test/                # Bloquer les dossiers de test
+Disallow: /staging/             # Bloquer les environnements de staging
 
-# Bloquer des URL avec paramètres inutiles pour l'indexation
-Disallow: /*?debug=true
-Disallow: /*?preview=true
-
-# Permettre les fichiers nécessaires au bon affichage et fonctionnement
-Allow: /css/
-Allow: /js/
-Allow: /images/
-
-# Référencement des ressources multimédias
-Allow: *.png
-Allow: *.jpg
-Allow: *.webp
-Allow: *.css
-Allow: *.js
-
-# Fournir le chemin du fichier sitemap pour une meilleure indexation
-Sitemap: https://www.clairvoyancemedium.com/sitemap.xml
-
-# Autorisation pour les robots Google et Bing pour maximiser les campagnes publicitaires
+# --- Directives pour Googlebot (Google, Google Assistant) ---
 User-agent: Googlebot
 Allow: /
-User-agent: AdsBot-Google
+Allow: /[a-z]{2}/
+Allow: /fonts/
+Allow: /images/
+Allow: /js/
+Allow: /css/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour Googlebot-Image ---
+User-agent: Googlebot-Image
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /favicon_optimized.webp  # Éviter l’indexation du favicon
+
+# --- Directives pour Googlebot-Video ---
+User-agent: Googlebot-Video
 Allow: /
+Allow: /[a-z]{2}/
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour Bingbot (Bing, Cortana) ---
 User-agent: Bingbot
+Crawl-delay: 3
 Allow: /
+Allow: /[a-z]{2}/
+Allow: /fonts/
+Allow: /images/
+Allow: /js/
+Allow: /css/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
 
-# Bloquer les robots nuisibles ou non désirés
-User-agent: BadBot
-Disallow: /
-User-agent: EvilScraper
+# --- Directives pour Yandex (Yandex, Alice) ---
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign&lang&session_id
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /fonts/
+Allow: /images/
+Allow: /js/
+Allow: /css/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour Baiduspider (Baidu, Chine) ---
+User-agent: Baiduspider
+Crawl-delay: 4
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+Disallow: /api/
+Disallow: /test/
+Disallow: /staging/
+
+# --- Directives pour Applebot (Siri, Apple) ---
+User-agent: Applebot
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /fonts/
+Allow: /images/
+Allow: /js/
+Allow: /css/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour Amazonbot (Alexa, Amazon) ---
+User-agent: Amazonbot
+Crawl-delay: 5
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /blog/      # Contenu riche pour réponses vocales
+Allow: /article/   # Articles pour extraits vocaux
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour Naverbot (Naver, Japon/Corée) ---
+User-agent: Naverbot
+Crawl-delay: 5
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour SeznamBot (République tchèque) ---
+User-agent: SeznamBot
+Crawl-delay: 5
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Directives pour crawlers d’IA conversationnelle ---
+User-agent: Grok
+User-agent: ChatGPT-User
+User-agent: GPTBot  # OpenAI Web Crawler officiel
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: CCBot  # Common Crawl pour datasets IA
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /blog/      # Contenu riche pour extraits conversationnels
+Allow: /article/   # Articles pour réponses IA
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+Disallow: /api/
+Disallow: /test/
+Disallow: /staging/
+
+# --- Directives pour crawlers de réseaux sociaux ---
+User-agent: FacebookBot
+User-agent: Twitterbot
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /blog/      # Contenu pour aperçus sociaux
+Allow: /article/   # Articles pour partages
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Bloquer les crawlers indésirables ---
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: PetalBot
+User-agent: DotBot
 Disallow: /
 
-# Empêcher l'exploration des fichiers sensibles
-Disallow: /config/
-Disallow: /backup/
+# --- Autoriser SemrushBot pour audits SEO limités ---
+User-agent: SemrushBot
+Crawl-delay: 10
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /images/
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.gif$
+Disallow: /csp-report-endpoint
+Disallow: /contact
+Disallow: /conditions
+Disallow: /privacy
+Disallow: /checkout/
+Disallow: /*?*
+
+# --- Optimisation du crawl ---
+Crawl-delay: 1.5   # 1.5s pour visites très fréquentes
+Request-rate: 1/5  # 1 requête toutes les 5 secondes pour crawl rapide
+
+# --- Sitemaps automatisés ---
+Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap.xml
+Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-image.xml
+Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-video.xml
