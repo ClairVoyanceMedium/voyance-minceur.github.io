@@ -6,127 +6,200 @@
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <!-- Page d'accueil -->
   <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/</loc>
-    <lastmod>2025-05-27</lastmod>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
     <!-- Toutes les langues -->
-    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/fr/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/en/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/es/" />
-    <xhtml:link rel="alternate" hreflang="de" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/de/" />
-    <xhtml:link rel="alternate" hreflang="it" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/it/" />
-    <xhtml:link rel="alternate" hreflang="zh" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/zh/" />
-    <xhtml:link rel="alternate" hreflang="ja" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/ja/" />
-    <xhtml:link rel="alternate" hreflang="ko" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/ko/" />
-    <xhtml:link rel="alternate" hreflang="ru" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/ru/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/pt/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/ar/" />
-    <xhtml:link rel="alternate" hreflang="nl" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/nl/" />
-    <xhtml:link rel="alternate" hreflang="sv" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/sv/" />
-    <xhtml:link rel="alternate" hreflang="pl" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/pl/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/tr/" />
-    <xhtml:link rel="alternate" hreflang="hi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/hi/" />
-    <xhtml:link rel="alternate" hreflang="th" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/th/" />
-    <xhtml:link rel="alternate" hreflang="vi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/vi/" />
-    <xhtml:link rel="alternate" hreflang="id" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/id/" />
-    <xhtml:link rel="alternate" hreflang="ms" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/ms/" />
-    <xhtml:link rel="alternate" hreflang="el" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/el/" />
-    <xhtml:link rel="alternate" hreflang="cs" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/cs/" />
-    <xhtml:link rel="alternate" hreflang="da" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/da/" />
-    <xhtml:link rel="alternate" hreflang="fi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/fi/" />
-    <xhtml:link rel="alternate" hreflang="no" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/no/" />
-    <!-- Images -->
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/fr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/it/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/ko/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/ru/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/pt/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/ar/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/nl/" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/sv/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/tr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/hi/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/th/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/vi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/id/" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/ms/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/el/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/cs/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/da/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/fi/" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/no/" />
+    <!-- Image -->
     <image:image>
       <image:loc>https://i.imgur.com/homepage.webp</image:loc>
-      <image:title>Voyance Minceur</image:title>
-      <image:caption>Services spirituels pour la perte de poids</image:caption>
+      <image:title>Psychic Weight Loss Solutions</image:title>
+      <image:caption>Transform your life with spiritual slimming</image:caption>
+      <image:geo_location>Global</image:geo_location>
     </image:image>
-    <!-- Vidéos -->
+    <!-- Vidéo -->
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/homepage-video/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Introduction à la voyance minceur</video:title>
-      <video:description>Découvrez nos services spirituels</video:description>
+      <video:title>Master Psychic Slimming Today</video:title>
+      <video:description>Unlock spiritual weight loss secrets with Voyance Minceur</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=homepage-video</video:content_loc>
       <video:publication_date>2025-05-27</video:publication_date>
-      <video:category>Spiritualité</video:category>
+      <video:duration>300</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spirituality</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://creativecommons.org/licenses/by/4.0/</video:license>
+      <video:rating>5.0</video:rating>
     </video:video>
   </url>
-  <!-- Pages multilingues -->
+  <!-- Page anglaise (USA) -->
   <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/fr/</loc>
-    <lastmod>2025-05-27</lastmod>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/en/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.99</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/en-page.jpg</image:loc>
+      <image:title>Psychic Slimming Services</image:title>
+      <image:caption>Spiritual weight loss solutions for Americans</image:caption>
+      <image:geo_location>United States</image:geo_location>
+    </image:image>
+  </url>
+  <!-- Page espagnole -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/es/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.99</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/es-page.jpg</image:loc>
+      <image:title>Servicios de Adelgazamiento Psíquico</image:title>
+      <image:caption>Soluciones espirituales para la pérdida de peso</image:caption>
+      <image:geo_location>Latin America</image:geo_location>
+    </image:image>
+  </url>
+  <!-- Page française -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/fr/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
     <image:image>
       <image:loc>https://i.imgur.com/fr-page.jpg</image:loc>
-      <image:title>Page française</image:title>
-      <image:caption>Services en français</image:caption>
+      <image:title>Services de voyance minceur</image:title>
+      <image:caption>Perte de poids spirituelle en français</image:caption>
+      <image:geo_location>France</image:geo_location>
     </image:image>
   </url>
-  <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/en/</loc>
-    <lastmod>2025-05-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-    <image:image>
-      <image:loc>https://i.imgur.com/en-page.jpg</image:loc>
-      <image:title>English page</image:title>
-      <image:caption>Services in English</image:caption>
-    </image:image>
-  </url>
-  <!-- Ajouter les autres langues (es, de, it, zh, etc.) avec images similaires -->
+  <!-- Ajouter les autres langues (zh, ja, etc.) -->
   <!-- Blog -->
   <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/blog/</loc>
-    <lastmod>2025-05-27</lastmod>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/blog/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
     <image:image>
       <image:loc>https://i.imgur.com/blog-main.jpg</image:loc>
-      <image:title>Blog principal</image:title>
-      <image:caption>Articles spirituels</image:caption>
+      <image:title>Spiritual Wellness Blog</image:title>
+      <image:caption>Insights on psychic slimming and spirituality</image:caption>
+      <image:geo_location>Global</image:geo_location>
     </image:image>
   </url>
-  <!-- Article de blog (actualités) -->
+  <!-- Communiqué de presse -->
   <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/blog/nouvel-article/</loc>
-    <lastmod>2025-05-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/blog/press-release/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.95</priority>
     <news:news>
       <news:publication>
         <news:name>Voyance Minceur</news:name>
-        <news:language>fr</news:language>
+        <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2025-05-27</news:publication_date>
-      <news:title>Nouvelle méthode spirituelle pour perdre du poids</news:title>
-      <news:keywords>voyance, minceur, spiritualité, perte de poids, bien-être</news:keywords>
+      <news:title>Global Launch of Psychic Slimming Program</news:title>
+      <news:keywords>psychic, weight loss, spirituality, wellness, coaching</news:keywords>
+      <news:genres>PressRelease</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/press-release.jpg</image:loc>
+      <image:title>Press Release Image</image:title>
+      <image:caption>Announcing our global spiritual program</image:caption>
+      <image:geo_location>United States</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/press-video/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Psychic Slimming Program Launch</video:title>
+      <video:description>Discover our revolutionary spiritual weight loss program</video:description>
+      <video:content_loc>https://www.youtube.com/watch?v=press-video</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>240</video:duration>
+      <video:view_count>5000</video:view_count>
+      <video:category>Wellness</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/terms/</video:license>
+      <video:rating>4.9</video:rating>
+    </video:video>
+  </url>
+  <!-- Article de blog -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/blog/new-article/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.95</priority>
+    <news:news>
+      <news:publication>
+        <news:name>Voyance Minceur</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Advanced Psychic Weight Loss Techniques</news:title>
+      <news:keywords>psychic, weight loss, spirituality, wellness, coaching</news:keywords>
+      <news:genres>Blog</news:genres>
     </news:news>
     <image:image>
       <image:loc>https://i.imgur.com/blog-article.jpg</image:loc>
-      <image:title>Image d’article</image:title>
-      <image:caption>Méthode spirituelle</image:caption>
+      <image:title>Spiritual Article Image</image:title>
+      <image:caption>Master psychic slimming techniques</image:caption>
+      <image:geo_location>Global</image:geo_location>
     </image:image>
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/article-video/hqdefault.jpg</video:thumbnail_loc>
-      <video:title>Guide spirituel minceur</video:title>
-      <video:description>Conseils pour une perte de poids spirituelle</video:description>
+      <video:title>Spiritual Slimming Masterclass</video:title>
+      <video:description>Learn advanced psychic weight loss techniques</video:description>
       <video:content_loc>https://www.youtube.com/watch?v=article-video</video:content_loc>
       <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>360</video:duration>
+      <video:view_count>7500</video:view_count>
       <video:category>Coaching</video:category>
+      <video:tag>spirituality</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/terms/</video:license>
+      <video:rating>4.8</video:rating>
     </video:video>
   </url>
-  <!-- Section articles -->
+  <!-- Articles -->
   <url>
-    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/article/</loc>
-    <lastmod>2025-05-27</lastmod>
+    <loc>https://clairvoyancemedium.github.io/voyance-minceur.github.io/voyance/article/</loc>
+    <lastmod>2025-05-27T01:29:23Z</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
     <image:image>
       <image:loc>https://i.imgur.com/article-main.jpg</image:loc>
-      <image:title>Article principal</image:title>
-      <image:caption>Contenu spirituel</image:caption>
+      <image:title>Psychic Slimming Articles</image:title>
+      <image:caption>Deep insights into spiritual weight loss</image:caption>
+      <image:geo_location>Global</image:geo_location>
     </image:image>
   </url>
 </urlset>
