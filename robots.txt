@@ -1,54 +1,42 @@
-# robots.txt v3.4 - 2025-05-27
+# robots.txt v3.5 - 2025-05-28
 # Optimisé pour https://clairvoyancemedium.github.io/voyance-minceur.github.io/
-# Objectifs : SEO mondial, crawl ultra-fréquent via sitemaps automatisés, support IA/assistants vocaux/réseaux sociaux, multilingue, protection maximale
+# Objectifs : SEO mondial, crawl ultra-fréquent, support IA/assistants vocaux/réseaux sociaux, multilingue, protection maximale
 
 # --- Directives générales pour tous les crawlers légitimes ---
 User-agent: *
 Allow: /
-Allow: /[a-z]{2}/  # Répertoires multilingues (/fr/, /en/, /es/, etc.) et sous-pages
-Allow: /fonts/      # Polices pour rendu
-Allow: /images/     # Images pour indexation
-Allow: /js/        # Scripts pour fonctionnalités interactives
-Allow: /css/       # CSS pour rendu mobile-first
-Allow: /*.webp$     # Images WebP
+Allow: /[a-z]{2}/  # Pages multilingues (/fr/, /en/, /es/, etc.)
+Allow: /terms/     # CGV publiques
+Allow: /fonts/     # Polices pour rendu
+Allow: /images/    # Images pour indexation
+Allow: /js/        # Scripts interactifs
+Allow: /css/       # CSS mobile-first
+Allow: /*.webp$    # Images WebP
 Allow: /*.jpg$     # Images JPG
 Allow: /*.png$     # Images PNG
 Allow: /*.gif$     # Images GIF
 Allow: /*.js$      # Scripts JavaScript
 Allow: /*.css$     # Fichiers CSS
-Disallow: /csp-report-endpoint  # Protéger le point de terminaison CSP
-Disallow: /contact              # Page de contact non indexable
-Disallow: /conditions           # CGV non indexables
-Disallow: /privacy              # Politique de confidentialité non indexable
-Disallow: /checkout/            # Bloquer les chemins transactionnels potentiels
-Disallow: /*?*                  # Bloquer les paramètres d’URL (ex. ?s=)
-Disallow: /search/              # Bloquer les pages de recherche
-Disallow: /api/                 # Bloquer les endpoints API
-Disallow: /test/                # Bloquer les dossiers de test
-Disallow: /staging/             # Bloquer les environnements de staging
+Disallow: /csp-report-endpoint/  # Protéger CSP
+Disallow: /contact/             # Page de contact
+Disallow: /privacy/             # Politique de confidentialité
+Disallow: /checkout/            # Chemins transactionnels
+Disallow: /search/              # Pages de recherche
+Disallow: /api/                 # Endpoints API
+Disallow: /test/                # Dossiers de test
+Disallow: /staging/             # Environnements de staging
+Clean-param: utm_source&utm_medium&utm_campaign&lang&session_id  # Autoriser paramètres utiles
 
 # --- Directives pour Googlebot (Google, Google Assistant) ---
 User-agent: Googlebot
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /fonts/
-Allow: /images/
-Allow: /js/
-Allow: /css/
-Allow: /blog/      # Contenu riche pour SEO et vocaux
+Crawl-delay: 1
+Allow: /blog/      # Contenu riche pour SEO
 Allow: /article/   # Articles pour snippets
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Allow: /*.js$
-Allow: /*.css$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
 # --- Directives pour Googlebot-Image ---
 User-agent: Googlebot-Image
@@ -57,108 +45,66 @@ Allow: /*.webp$
 Allow: /*.jpg$
 Allow: /*.png$
 Allow: /*.gif$
-Disallow: /favicon_optimized.webp  # Éviter l’indexation du favicon
+Disallow: /favicon_optimized.webp  # Éviter favicon
 
 # --- Directives pour Googlebot-Video ---
 User-agent: Googlebot-Video
+Crawl-delay: 1
 Allow: /
 Allow: /[a-z]{2}/
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
 # --- Directives pour Bingbot (Bing, Cortana) ---
 User-agent: Bingbot
 Crawl-delay: 2
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /fonts/
-Allow: /images/
-Allow: /js/
-Allow: /css/
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Allow: /*.js$
-Allow: /*.css$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
 # --- Directives pour Yandex (Yandex, Alice) ---
 User-agent: Yandex
-Clean-param: utm_source&utm_medium&utm_campaign&lang&session_id
 Crawl-delay: 3
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /fonts/
-Allow: /images/
-Allow: /js/
-Allow: /css/
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Allow: /*.js$
-Allow: /*.css$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang&session_id
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
-# --- Directives pour Baiduspider (Baidu, Chine) ---
+# --- Directives pour Baiduspider (Chine) ---
 User-agent: Baiduspider
 Crawl-delay: 3
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /images/
+Allow: /zh/        # Prioriser chinois
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 Disallow: /api/
 Disallow: /test/
 Disallow: /staging/
 
 # --- Directives pour Sogou (Chine) ---
 User-agent: Sogou
-Crawl-delay: 5
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /images/
+Crawl-delay: 4
+Allow: /zh/
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 Disallow: /api/
 Disallow: /test/
 Disallow: /staging/
@@ -166,187 +112,172 @@ Disallow: /staging/
 # --- Directives pour Applebot (Siri, Apple) ---
 User-agent: Applebot
 Crawl-delay: 2
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /fonts/
-Allow: /images/
-Allow: /js/
-Allow: /css/
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Allow: /*.js$
-Allow: /*.css$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
 # --- Directives pour Amazonbot (Alexa, Amazon) ---
 User-agent: Amazonbot
-Crawl-delay: 4
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /blog/      # Contenu riche pour réponses vocales
-Allow: /article/   # Articles pour extraits vocaux
-Allow: /images/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
-Disallow: /checkout/
-Disallow: /*?*
-
-# --- Directives pour Naverbot (Naver, Japon/Corée) ---
-User-agent: Naverbot
-Crawl-delay: 4
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /images/
+Crawl-delay: 3
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
+
+# --- Directives pour Naverbot (Japon/Corée) ---
+User-agent: Naverbot
+Crawl-delay: 3
+Allow: /ja/        # Prioriser japonais
+Allow: /ko/        # Prioriser coréen
+Allow: /blog/
+Allow: /article/
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
+Disallow: /checkout/
 
 # --- Directives pour SeznamBot (République tchèque) ---
 User-agent: SeznamBot
-Crawl-delay: 4
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /images/
+Crawl-delay: 3
+Allow: /cs/        # Prioriser tchèque
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
 # --- Directives pour Qwantify (Qwant, Europe) ---
 User-agent: Qwantify
-Crawl-delay: 5
-Allow: /
-Allow: /[a-z]{2}/
-Allow: /images/
+Crawl-delay: 4
+Allow: /fr/        # Prioriser français
 Allow: /blog/
 Allow: /article/
-Allow: /*.webp$
-Allow: /*.jpg$
-Allow: /*.png$
-Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
-# --- Directives pour crawlers d’IA conversationnelle ---
+# --- Directives pour DuckDuckGoBot (Global) ---
+User-agent: DuckDuckGoBot
+Crawl-delay: 2
+Allow: /
+Allow: /[a-z]{2}/
+Allow: /blog/
+Allow: /article/
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
+Disallow: /checkout/
+
+# --- Directives pour JioSphere (Inde) ---
+User-agent: JioSphere
+Crawl-delay: 3
+Allow: /hi/        # Prioriser hindi
+Allow: /blog/
+Allow: /article/
+Clean-param: lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
+Disallow: /checkout/
+
+# --- Directives pour crawlers IA conversationnels ---
 User-agent: Grok
 User-agent: ChatGPT-User
 User-agent: GPTBot
-User-agent: openai-crawler  # OpenAI Web Crawler supplémentaire
+User-agent: openai-crawler
 User-agent: ClaudeBot
-User-agent: anthropic-ai    # Anthropic (Claude)
-User-agent: cohere-ai      # Cohere AI
+User-agent: anthropic-ai
+User-agent: cohere-ai
 User-agent: PerplexityBot
-User-agent: CCBot          # Common Crawl pour datasets IA
-User-agent: youbot         # You.com
-User-agent: phindbot       # Phind
-Crawl-delay: 6
+User-agent: CCBot
+User-agent: youbot
+User-agent: phindbot
+User-agent: GeminiBot  # Google AI
+Crawl-delay: 4
 Allow: /
 Allow: /[a-z]{2}/
-Allow: /blog/      # Contenu riche pour extraits conversationnels
-Allow: /article/   # Articles pour réponses IA
+Allow: /blog/      # Extraits conversationnels
+Allow: /article/
 Allow: /images/
 Allow: /*.webp$
 Allow: /*.jpg$
 Allow: /*.png$
 Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 Disallow: /api/
 Disallow: /test/
 Disallow: /staging/
 
-# --- Directives pour crawlers de réseaux sociaux ---
+# --- Directives pour crawlers réseaux sociaux ---
 User-agent: FacebookBot
 User-agent: Twitterbot
 User-agent: redditbot
+User-agent: TikTokBot  # Réseaux sociaux émergents
+Crawl-delay: 2
 Allow: /
 Allow: /[a-z]{2}/
-Allow: /blog/      # Contenu pour aperçus sociaux
-Allow: /article/   # Articles pour partages
+Allow: /blog/      # Aperçus sociaux
+Allow: /article/
 Allow: /images/
 Allow: /*.webp$
 Allow: /*.jpg$
 Allow: /*.png$
 Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
 
-# --- Bloquer les crawlers indésirables ---
+# --- Bloquer crawlers indésirables ---
 User-agent: MJ12bot
 User-agent: AhrefsBot
 User-agent: PetalBot
 User-agent: DotBot
 Disallow: /
 
-# --- Autoriser SemrushBot pour audits SEO limités ---
+# --- Autoriser SemrushBot pour audits SEO ---
 User-agent: SemrushBot
-Crawl-delay: 8
+Crawl-delay: 5
 Allow: /
 Allow: /[a-z]{2}/
-Allow: /images/
 Allow: /blog/
 Allow: /article/
+Allow: /images/
 Allow: /*.webp$
 Allow: /*.jpg$
 Allow: /*.png$
 Allow: /*.gif$
-Disallow: /csp-report-endpoint
-Disallow: /contact
-Disallow: /conditions
-Disallow: /privacy
+Clean-param: utm_source&utm_medium&utm_campaign&lang
+Disallow: /csp-report-endpoint/
+Disallow: /contact/
+Disallow: /privacy/
 Disallow: /checkout/
-Disallow: /*?*
+
+# --- Protection contre crawlers non reconnus ---
+User-agent: *
+Disallow: /  # Bloquer par défaut sauf si explicitement autorisé
 
 # --- Optimisation du crawl ---
-Crawl-delay: 1     # 1s pour visites ultra-fréquentes des crawlers prioritaires
-Request-rate: 1/4  # 1 requête toutes les 4 secondes pour crawl rapide
+Crawl-delay: 1
+Request-rate: 1/4  # 1 requête/4s pour crawl rapide
 
-# --- Sitemaps automatisés ---
-Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap.xml
-Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-image.xml
-Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-video.xml
-Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-news.xml
+# --- Sitemap index ---
+Sitemap: https://clairvoyancemedium.github.io/voyance-minceur.github.io/sitemap-index.xml
