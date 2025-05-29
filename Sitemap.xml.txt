@@ -1,1 +1,918 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+  <!-- Page française (priorité maximale) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/fr/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/voyance/fr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/voyance/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clairvoyancemedium.github.io/voyance/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clairvoyancemedium.github.io/voyance/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://clairvoyancemedium.github.io/voyance/it/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://clairvoyancemedium.github.io/voyance/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://clairvoyancemedium.github.io/voyance/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://clairvoyancemedium.github.io/voyance/ko/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clairvoyancemedium.github.io/voyance/ru/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://clairvoyancemedium.github.io/voyance/pt/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://clairvoyancemedium.github.io/voyance/ar/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clairvoyancemedium.github.io/voyance/nl/" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://clairvoyancemedium.github.io/voyance/sv/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://clairvoyancemedium.github.io/voyance/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://clairvoyancemedium.github.io/voyance/tr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://clairvoyancemedium.github.io/voyance/hi/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://clairvoyancemedium.github.io/voyance/th/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://clairvoyancemedium.github.io/voyance/vi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://clairvoyancemedium.github.io/voyance/id/" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://clairvoyancemedium.github.io/voyance/ms/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://clairvoyancemedium.github.io/voyance/el/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://clairvoyancemedium.github.io/voyance/cs/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://clairvoyancemedium.github.io/voyance/da/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://clairvoyancemedium.github.io/voyance/fi/" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://clairvoyancemedium.github.io/voyance/no/" />
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Services de voyance minceur</image:title>
+      <image:caption>Perte de poids spirituelle en français</image:caption>
+      <image:geo_location>France</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Maîtrisez la minceur psychique aujourd'hui</video:title>
+      <video:description>Découvrez les secrets de la perte de poids spirituelle avec Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spiritualité</video:category>
+      <video:tag>psychique</video:tag>
+      <video:tag>perte de poids</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page d'accueil -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <mobile:mobile/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://clairvoyancemedium.github.io/voyance/fr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://clairvoyancemedium.github.io/voyance/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://clairvoyancemedium.github.io/voyance/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://clairvoyancemedium.github.io/voyance/de/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://clairvoyancemedium.github.io/voyance/it/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://clairvoyancemedium.github.io/voyance/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://clairvoyancemedium.github.io/voyance/ja/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://clairvoyancemedium.github.io/voyance/ko/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://clairvoyancemedium.github.io/voyance/ru/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://clairvoyancemedium.github.io/voyance/pt/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://clairvoyancemedium.github.io/voyance/ar/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://clairvoyancemedium.github.io/voyance/nl/" />
+    <xhtml:link rel="alternate" hreflang="sv" href="https://clairvoyancemedium.github.io/voyance/sv/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://clairvoyancemedium.github.io/voyance/pl/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://clairvoyancemedium.github.io/voyance/tr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://clairvoyancemedium.github.io/voyance/hi/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://clairvoyancemedium.github.io/voyance/th/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://clairvoyancemedium.github.io/voyance/vi/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://clairvoyancemedium.github.io/voyance/id/" />
+    <xhtml:link rel="alternate" hreflang="ms" href="https://clairvoyancemedium.github.io/voyance/ms/" />
+    <xhtml:link rel="alternate" hreflang="el" href="https://clairvoyancemedium.github.io/voyance/el/" />
+    <xhtml:link rel="alternate" hreflang="cs" href="https://clairvoyancemedium.github.io/voyance/cs/" />
+    <xhtml:link rel="alternate" hreflang="da" href="https://clairvoyancemedium.github.io/voyance/da/" />
+    <xhtml:link rel="alternate" hreflang="fi" href="https://clairvoyancemedium.github.io/voyance/fi/" />
+    <xhtml:link rel="alternate" hreflang="no" href="https://clairvoyancemedium.github.io/voyance/no/" />
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychic Weight Loss Solutions</image:title>
+      <image:caption>Transform your life with spiritual slimming</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Master Psychic Slimming Today</video:title>
+      <video:description>Unlock spiritual weight loss secrets with Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spirituality</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page anglaise (USA) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/en/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychic Slimming Services</image:title>
+      <image:caption>Spiritual weight loss solutions for Americans</image:caption>
+      <image:geo_location>United States</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Master Psychic Slimming Today</video:title>
+      <video:description>Unlock spiritual weight loss secrets with Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spirituality</video:category>
+      <video:tag>psychic</video:tag>
+      <video:tag>weight loss</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page espagnole -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/es/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Servicios de Adelgazamiento Psíquico</image:title>
+      <image:caption>Soluciones espirituales para la pérdida de peso</image:caption>
+      <image:geo_location>Latin America</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Domina el Adelgazamiento Psíquico Hoy</video:title>
+      <video:description>Descubre los secretos de la pérdida de peso espiritual con Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Espiritualidad</video:category>
+      <video:tag>psíquico</video:tag>
+      <video:tag>pérdida de peso</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page allemande -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/de/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychische Schlankheitsdienste</image:title>
+      <image:caption>Spirituelle Lösungen zur Gewichtsreduktion</image:caption>
+      <image:geo_location>Germany</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Meistere psychisches Abnehmen heute</video:title>
+      <video:description>Entdecke die Geheimnisse des spirituellen Gewichtsverlusts mit Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spiritualität</video:category>
+      <video:tag>psychisch</video:tag>
+      <video:tag>Gewichtsverlust</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page italienne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/it/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Servizi di Dimagrimento Psichico</image:title>
+      <image:caption>Soluzioni spirituali per la perdita di peso</image:caption>
+      <image:geo_location>Italy</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Padroneggia il dimagrimento psichico oggi</video:title>
+      <video:description>Scopri i segreti della perdita di peso spirituale con Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spiritualità</video:category>
+      <video:tag>psichico</video:tag>
+      <video:tag>perdita di peso</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page chinoise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/zh/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>灵性减肥服务</image:title>
+      <image:caption>灵性减肥解决方案</image:caption>
+      <image:geo_location>China</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>今天掌握灵性减肥</video:title>
+      <video:description>与Voyance Minceur一起解锁灵性减肥的秘密</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>灵性</video:category>
+      <video:tag>灵性</video:tag>
+      <video:tag>减肥</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page japonaise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ja/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>サイキック痩身サービス</image:title>
+      <image:caption>スピリチュアルな減量ソリューション</image:caption>
+      <image:geo_location>Japan</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>今日、サイキック痩身をマスター</video:title>
+      <video:description>Voyance Minceurでスピリチュアルな減量の秘密を解き明かす</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>スピリチュアル</video:category>
+      <video:tag>サイキック</video:tag>
+      <video:tag>減量</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page coréenne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ko/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>심령 다이어트 서비스</image:title>
+      <image:caption>영적인 체중 감량 솔루션</image:caption>
+      <image:geo_location>South Korea</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>오늘 심령 다이어트를 마스터하세요</video:title>
+      <video:description>Voyance Minceur로 영적인 체중 감량 비밀을 알아보세요</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>영성</video:category>
+      <video:tag>심령</video:tag>
+      <video:tag>체중 감량</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page russe -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ru/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Услуги психического похудения</image:title>
+      <image:caption>Духовные решения для похудения</image:caption>
+      <image:geo_location>Russia</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Овладейте психическим похудением сегодня</video:title>
+      <video:description>Раскройте секреты духовного похудения с Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Духовность</video:category>
+      <video:tag>психический</video:tag>
+      <video:tag>похудение</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page portugaise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/pt/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Serviços de Emagrecimento Psíquico</image:title>
+      <image:caption>Soluções espirituais para perda de peso</image:caption>
+      <image:geo_location>Portugal</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Domine o Emagrecimento Psíquico Hoje</video:title>
+      <video:description>Desvende os segredos da perda de peso espiritual com Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Espiritualidade</video:category>
+      <video:tag>psíquico</video:tag>
+      <video:tag>perda de peso</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page arabe -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ar/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>خدمات التخسيس النفسي</image:title>
+      <image:caption>حلول روحية لفقدان الوزن</image:caption>
+      <image:geo_location>Middle East</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>إتقان التخسيس النفسي اليوم</video:title>
+      <video:description>اكتشف أسرار فقدان الوزن الروحي مع Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>الروحانية</video:category>
+      <video:tag>نفسي</video:tag>
+      <video:tag>فقدان الوزن</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page néerlandaise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/nl/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychische Afslankdiensten</image:title>
+      <image:caption>Spirituele oplossingen voor gewichtsverlies</image:caption>
+      <image:geo_location>Netherlands</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Beheers psychisch afslanken vandaag</video:title>
+      <video:description>Ontdek de geheimen van spiritueel gewichtsverlies met Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spiritualiteit</video:category>
+      <video:tag>psychisch</video:tag>
+      <video:tag>gewichtsverlies</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page suédoise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/sv/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psykiska Bantningstjänster</image:title>
+      <image:caption>Spirituella lösningar för viktminskning</image:caption>
+      <image:geo_location>Sweden</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Mastera psykisk bantning idag</video:title>
+      <video:description>Upptäck hemligheterna med andlig viktminskning med Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Andlighet</video:category>
+      <video:tag>psykisk</video:tag>
+      <video:tag>viktminskning</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page polonaise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/pl/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Usługi Psychicznego Odchudzania</image:title>
+      <image:caption>Duchowe rozwiązania dla utraty wagi</image:caption>
+      <image:geo_location>Poland</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Opanuj psychiczne odchudzanie dzisiaj</video:title>
+      <video:description>Odkryj sekrety duchowej utraty wagi z Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Duchowość</video:category>
+      <video:tag>psychiczny</video:tag>
+      <video:tag>utrata wagi</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page turque -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/tr/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psikolojik Zayıflama Hizmetleri</image:title>
+      <image:caption>Kilo verme için manevi çözümler</image:caption>
+      <image:geo_location>Turkey</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Bugün psişik zayıflamayı ustalaş</video:title>
+      <video:description>Voyance Minceur ile manevi kilo verme sırlarını keşfedin</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Maneviyat</video:category>
+      <video:tag>psikolojik</video:tag>
+      <video:tag>kilo verme</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page hindi -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/hi/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>मानसिक स्लिमिंग सेवाएँ</image:title>
+      <image:caption>वजन घटाने के लिए आध्यात्मिक समाधान</image:caption>
+      <image:geo_location>India</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>आज मानसिक स्लिमिंग में महारत हासिल करें</video:title>
+      <video:description>Voyance Minceur के साथ आध्यात्मिक वजन घटाने के रहस्यों को जानें</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>आध्यात्मिकता</video:category>
+      <video:tag>मानसिक</video:tag>
+      <video:tag>वजन घटाना</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page thaï -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/th/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>บริการลดน้ำหนักจิตวิญญาณ</image:title>
+      <image:caption>โซลูชันจิตวิญญาณสำหรับการลดน้ำหนัก</image:caption>
+      <image:geo_location>Thailand</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>เชี่ยวชาญการลดน้ำหนักจิตวิญญาณวันนี้</video:title>
+      <video:description>ค้นพบความลับของการลดน้ำหนักจิตวิญญาณกับ Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>จิตวิญญาณ</video:category>
+      <video:tag>จิตวิญญาณ</video:tag>
+      <video:tag>การลดน้ำหนัก</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page vietnamienne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/vi/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Dịch vụ Giảm Cân Tâm Linh</image:title>
+      <image:caption>Giải pháp tâm linh cho việc giảm cân</image:caption>
+      <image:geo_location>Vietnam</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Làm chủ việc giảm cân tâm linh hôm nay</video:title>
+      <video:description>Khám phá bí mật giảm cân tâm linh với Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Tâm linh</video:category>
+      <video:tag>tâm linh</video:tag>
+      <video:tag>giảm cân</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page indonésienne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/id/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Layanan Penurunan Berat Badan Psikik</image:title>
+      <image:caption>Solusi spiritual untuk penurunan berat badan</image:caption>
+      <image:geo_location>Indonesia</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kuasai Penurunan Berat Badan Psikik Hari Ini</video:title>
+      <video:description>Temukan rahasia penurunan berat badan spiritual dengan Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Spiritualitas</video:category>
+      <video:tag>psikik</video:tag>
+      <video:tag>penurunan berat badan</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page malaisienne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/ms/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Perkhidmatan Penyahtinjaan Psikik</image:title>
+      <image:caption>Penyelesaian rohani untuk penurunan berat badan</image:caption>
+      <image:geo_location>Malaysia</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Kuasai Penyahtinjaan Psikik Hari Ini</video:title>
+      <video:description>Temui rahsia penurunan berat badan rohani dengan Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Kerohanian</video:category>
+      <video:tag>psikik</video:tag>
+      <video:tag>penurunan berat badan</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page grecque -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/el/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Υπηρεσίες Ψυχικής Αδυνατίσματος</image:title>
+      <image:caption>Πνευματικές λύσεις για απώλεια βάρους</image:caption>
+      <image:geo_location>Greece</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Κατέκτησε το Ψυχικό Αδυνάτισμα Σήμερα</video:title>
+      <video:description>Ανακάλυψε τα μυστικά της πνευματικής απώλειας βάρους με το Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Πνευματικότητα</video:category>
+      <video:tag>ψυχικός</video:tag>
+      <video:tag>απώλεια βάρους</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page tchèque -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/cs/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psychické Služby Hubnutí</image:title>
+      <image:caption>Duchovní řešení pro hubnutí</image:caption>
+      <image:geo_location>Czech Republic</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Zvládněte psychické hubnutí dnes</video:title>
+      <video:description>Objevte tajemství duchovního hubnutí s Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publicationInterpreter_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Duchovnost</video:category>
+      <video:tag>psychický</video:tag>
+      <video:tag:hubnutí</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page danoise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/da/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psykiske Slanketjenester</image:title>
+      <image:caption>Spirituelle løsninger til vægttab</image:caption>
+      <image:geo_location>Denmark</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Mestre psykisk slankning i dag</video:title>
+      <video:description>Oplev hemmelighederne ved spirituelt vægttab med Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Åndelighed</video:category>
+      <video:tag>psykisk</video:tag>
+      <video:tag>vægttab</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page finlandaise -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/fi/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psyykkiset Laihdutuspalvelut</image:title>
+      <image:caption>Henkisiä ratkaisuja painonpudotukseen</image:caption>
+      <image:geo_location>Finland</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Hallitse psyykkinen laihdutus tänään</video:title>
+      <video:description>Tutki henkisen painonpudotuksen salaisuuksia Voyance Minceurin kanssa</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Henkisyys</video:category>
+      <video:tag>psyykkinen</video:tag>
+      <video:tag>painonpudotus</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Page norvégienne -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/no/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/x9jJPra.jpg</image:loc>
+      <image:title>Psykiske Slanketjenester</image:title>
+      <image:caption>Åndelige løsninger for vekttap</image:caption>
+      <image:geo_location>Norway</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Mestre psykisk slanking i dag</video:title>
+      <video:description>Utforsk hemmelighetene til åndelig vekttap med Voyance Minceur</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Åndelighet</video:category>
+      <video:tag>psykisk</video:tag>
+      <video:tag>vekttap</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Blog (section générale des publications) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/blog/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Blog de Bien-être Spirituel</image:title>
+      <image:caption>Publications sur la minceur psychique et la spiritualité</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+  </url>
+  <!-- Communiqué de presse -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/blog/press-release/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>Voyance Minceur</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Lancement mondial du programme de minceur psychique</news:title>
+      <news:keywords>psychique, perte de poids, spiritualité, bien-être, coaching</news:keywords>
+      <news:genres>PressRelease</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Image du communiqué de presse</image:title>
+      <image:caption>Annonce de notre programme spirituel mondial</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Lancement du programme de minceur psychique</video:title>
+      <video:description>Découvrez notre programme révolutionnaire de perte de poids spirituelle</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Bien-être</video:category>
+      <video:tag>psychique</video:tag>
+      <video:tag>perte de poids</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Article de blog spécifique -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/blog/new-article/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <mobile:mobile/>
+    <news:news>
+      <news:publication>
+        <news:name>Voyance Minceur</news:name>
+        <news:language>fr</news:language>
+      </news:publication>
+      <news:publication_date>2025-05-27</news:publication_date>
+      <news:title>Techniques avancées de perte de poids psychique</news:title>
+      <news:keywords>psychique, perte de poids, spiritualité, bien-être, coaching</news:keywords>
+      <news:genres>Blog</news:genres>
+    </news:news>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Image d'article spirituel</image:title>
+      <image:caption>Maîtrisez les techniques de minceur psychique</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Dj-pfiIzB44/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Masterclass de minceur spirituelle</video:title>
+      <video:description>Apprenez les techniques avancées de perte de poids psychique</video:description>
+      <video:content_loc>https://www.youtube.com/shorts/Dj-pfiIzB44</video:content_loc>
+      <video:publication_date>2025-05-27</video:publication_date>
+      <video:duration>60</video:duration>
+      <video:view_count>10000</video:view_count>
+      <video:category>Coaching</video:category>
+      <video:tag>spiritualité</video:tag>
+      <video:tag>perte de poids</video:tag>
+      <video:author>Voyance Minceur Team</video:author>
+      <video:license>https://www.clairvoyancemedium.com/Conditions-Generales-des-Ventes-et-d-Utilisation-ccsaaaaaa.asp</video:license>
+      <video:rating>5.0</video:rating>
+    </video:video>
+  </url>
+  <!-- Section articles (contenus approfondis) -->
+  <url>
+    <loc>https://clairvoyancemedium.github.io/voyance/articles/</loc>
+    <lastmod>2025-05-28T00:56:00Z</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.85</priority>
+    <mobile:mobile/>
+    <image:image>
+      <image:loc>https://i.imgur.com/H69KvL6.png</image:loc>
+      <image:title>Articles sur la minceur psychique</image:title>
+      <image:caption>Aperçus approfondis sur la perte de poids spirituelle</image:caption>
+      <image:geo_location>Global</image:geo_location>
+    </image:image>
+  </url>
+</urlset>
